@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.pierrerouby_droid.chiffres",
+      "sha256_cert_fingerprints": [
+        "51:28:00:02:3B:87:36:DD:64:C7:7F:36:2F:9E:24:0B:DC:69:7F:31:AB:7F:A1:75:05:FE:82:28:A8:56:8D:75"
+      ]
+    }
+  }
+]
